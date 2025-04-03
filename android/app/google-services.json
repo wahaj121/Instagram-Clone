@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827100473106",
+    "project_id": "instawahaj",
+    "storage_bucket": "instawahaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827100473106:android:e6abec18ee1d1c70e6b5cb",
+        "android_client_info": {
+          "package_name": "com.example.instaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wdBahQqQgKKvnxHo-4rUgWowQEajUGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

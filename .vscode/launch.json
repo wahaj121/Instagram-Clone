@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter: Attach to Device",
+      "type": "dart",
+      "request": "attach"
+    },
+    {
+      "name": "Flutter",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart"
+    },
+  
+    {
+      "name": "instaclone (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "instaclone (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "instaclone (Flutter)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}

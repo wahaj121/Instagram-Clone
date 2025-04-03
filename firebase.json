@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "instawahaj",
+          "appId": "1:827100473106:android:e6abec18ee1d1c70e6b5cb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "instawahaj",
+          "configurations": {
+            "android": "1:827100473106:android:e6abec18ee1d1c70e6b5cb",
+            "ios": "1:827100473106:ios:58603bb620e90ad2e6b5cb",
+            "web": "1:827100473106:web:5506cf0b6b0759d2e6b5cb"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
