@@ -1,4 +1,3 @@
-=======
 # Instagram Clone (Flutter + Firebase)
 
 ## 📌 Overview
