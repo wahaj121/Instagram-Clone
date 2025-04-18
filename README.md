@@ -14,9 +14,6 @@ This is a **basic Instagram Clone** built using **Flutter and Firebase**. The pr
 - **Firebase Authentication** – User authentication
 - **Provider** – State management
 
-## 📷 Screenshots
-*(Add relevant screenshots here)*
-
 ## ⚙ Installation & Setup
 
 ### Prerequisites
