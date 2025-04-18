@@ -36,4 +36,4 @@ This is a **basic Instagram Clone** built using **Flutter and Firebase**. The pr
    ```  
 
 ## 📩 Contact
-For any queries or collaboration, reach out at ** siddiquiibtihaj@gmail.com**.
+For any queries or collaboration, reach out at siddiquiibtihaj@gmail.com.
