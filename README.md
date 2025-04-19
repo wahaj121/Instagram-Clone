@@ -23,7 +23,7 @@ This is a **basic Instagram Clone** built using **Flutter and Firebase**. The pr
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/instagram-clone.git
+   git clone https://github.com/wahaj121/Instagram-Clone.git
    cd instagram-clone
    ```  
 2. Install dependencies:
